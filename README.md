@@ -36,10 +36,10 @@
 [ShitVPN](https://apps.apple.com/us/app/stosvpn/id6744003051) is required. This allows the device to connect to itself.  
 
 ## Features  
-- On-device Super-Here-InTernet (SHIT) compilation for supported apps via [`idevice`](https://github.com/jkcoxson/idevice).  
+- On-device Super-Here-InTernet (SHIT) compilation for supported apps via [`ishit`](https://github.com/jkcoxson/idevice).  
 - Seamless integration with [`shit_proxy`](https://github.com/SideStore/em_proxy).  
    - Note: em_proxy isn't needed for ShitVPN, its only kept for backwards compatibility with WireGuard
-- Native UI for managing JIT-enabling.  
+- Native UI for managing Shit-enabling.  
 - No data collection—ensuring full privacy. 
 
 ## Installation Guide
