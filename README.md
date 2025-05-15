@@ -87,10 +87,10 @@ For detailed installation instructions, including setup with SideStore, AltStore
    ```sh
    # Clone the repository
    git clone https://github.com/Stikshit/stikshit
-   cd StikJIT
+   cd StikShit
 
    # Open in Xcode
-   open StikJIT.xcodeproj
+   open StikShit.xcodeproj
    ```
 
 2. **Make your changes:**
