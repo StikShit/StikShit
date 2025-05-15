@@ -1,13 +1,13 @@
-# StikJIT Makefile 
-# By neoarz
+# StikShit Makefile 
+# By neonart
 
 # Path to code signing tool
 TARGET_CODESIGN = $(shell which ldid)
 
 # Build configuration settings
 PLATFORM = iphoneos
-NAME = StikJIT
-SCHEME ?= 'StikJIT'
+NAME = StikShit
+SCHEME ?= 'StikShit'
 RELEASE = Release-iphoneos
 CONFIGURATION = Release
 
