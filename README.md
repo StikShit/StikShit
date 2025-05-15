@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1><b>StikShit</b></h1>
-  <p><i> An on-device JIT enabler for iOS versions 17.4+ (17.4-18.5 (latest)), excluding iOS 18.4 beta 1 (22E5200s), powered by <a href="https://github.com/jkcoxson/idevice">idevice</a> </i></p>
+  <p><i> An on-device Shit enabler for iOS versions 17.4+ (17.4-18.5 (latest)), excluding iOS 18.4 beta 1 (22E5200s), powered by <a href="https://github.com/jjsunson/ishit">idevice</a> </i></p>
 </div>
 <h6 align="center">
 
@@ -33,12 +33,12 @@
 </h6>
   
 ## Requirements  
-[StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051) is required. This allows the device to connect to itself.  
+[ShitVPN](https://apps.apple.com/us/app/stosvpn/id6744003051) is required. This allows the device to connect to itself.  
 
 ## Features  
-- On-device Just-In-Time (JIT) compilation for supported apps via [`idevice`](https://github.com/jkcoxson/idevice).  
-- Seamless integration with [`em_proxy`](https://github.com/SideStore/em_proxy).  
-   - Note: em_proxy isn't needed for StosVPN, its only kept for backwards compatibility with WireGuard
+- On-device Super-Here-InTernet (SHIT) compilation for supported apps via [`idevice`](https://github.com/jkcoxson/idevice).  
+- Seamless integration with [`shit_proxy`](https://github.com/SideStore/em_proxy).  
+   - Note: em_proxy isn't needed for ShitVPN, its only kept for backwards compatibility with WireGuard
 - Native UI for managing JIT-enabling.  
 - No data collection—ensuring full privacy. 
 
@@ -86,7 +86,7 @@ For detailed installation instructions, including setup with SideStore, AltStore
 1. **Set up your development environment:**
    ```sh
    # Clone the repository
-   git clone https://github.com/0-Blu/StikJIT.git
+   git clone https://github.com/Stikshit/stikshit
    cd StikJIT
 
    # Open in Xcode
@@ -113,4 +113,4 @@ For detailed installation instructions, including setup with SideStore, AltStore
 > - Added comments explaning what your pull request is meant to do
 
 ## License  
-StikJIT is licensed under **AGPL-3.0**. See [`LICENSE`](LICENSE) for details.  
+StikShit is licensed under **AGPL-3.0**. See [`LICENSE`](LICENSE) for details.  
