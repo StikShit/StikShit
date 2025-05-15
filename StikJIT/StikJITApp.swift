@@ -1,6 +1,6 @@
 //
-//  StikJITApp.swift
-//  StikJIT
+//  StikShit.app.swift
+//  StikShit
 //
 //  Created by Stephen on 3/26/25.
 //
