@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="217" height="217" src="/assets/StikJIT_Rounded_Corners.png" alt="Logo">
+   <img width="217" height="217" src="/assets/IMG_0105.png" alt="Logo">
 </div>
    
 
